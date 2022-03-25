@@ -1,0 +1,135 @@
+
+.title__category{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.product__main{
+    float: left;
+    width: 33.3%;
+
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 0px;
+
+    border-radius: 3px;
+}
+.back_product{
+    background-color: #f1f1f1;
+    height: 420px;
+    width: 100%;
+}
+.product__main .product__link:hover .product__main__right .product__title h2{
+    color: #dd2122;;
+}
+.logo__apple img {
+    width: 60%;
+    margin: 5px 0px 10px 5px;
+}
+.product__image__title{
+   padding: 10px ;
+}
+.product__image__title img{
+    width: 100%;
+    height: 110px;
+}
+.product__main__left,.product__main__right{
+    float: left;
+    padding: 5px;
+}
+.product__main__left{
+    width: 40%;
+    margin-bottom: 20px;
+}
+.product__main__right{
+    width: 60%;
+    padding-bottom: 0px;
+}
+.product__rating{
+    text-align: center;
+}
+.product__rating li{
+    display: inline-block;
+}
+.product__rating li i{
+    color: #f1b900;
+}
+.number__rating{
+    text-align: center;
+    margin-top: 5px;
+}
+.capacity{
+   text-align: center;
+    margin-top: 10px;
+}
+.product__main a{
+
+}
+.product__capacity{
+    padding: 3px;
+    font-size: 13px;
+    background-color: #d9d9d9;
+    border-radius: 3px;
+}
+.product__main__right .product__title h2{
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: bold;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.product__main__right .product__price__sale{
+    text-decoration: line-through;
+    font-size: 12px;
+}
+.product__main__right .product__price{
+    font-size: 18px;
+    color: #dd2122;
+    font-weight: bold;
+}
+.product__guarantee{
+    margin: 7px 0px 10px 0px;
+    font-size: 13px;
+}
+.product__sale .title{
+    font-weight: bold;
+    margin: 5px 0px;
+}
+.product__content{
+    overflow: hidden;
+    font-size: 13px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    margin: 0px;
+    padding-left: 3px;
+}
+.product__detail{
+    text-align: center;
+    padding: 10px;
+    background-color: #ffffff;
+    color: black;
+    font-size: 13px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.product__detail:hover{
+    color: #dd2122;
+    text-decoration: none;
+}
+.product__title__desc{
+    margin-top: 10px;
+    font-size: 13px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    padding:0px 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.product__price_desc{
+    color: #dd2122;
+    font-size:13px;
+
+}

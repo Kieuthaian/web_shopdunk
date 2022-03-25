@@ -1,0 +1,308 @@
+.title__border-full {
+    border-bottom: 1px #e4e4e4 solid;
+}
+.title__border-full .title {
+    border-bottom: none;
+    margin-top: 7px;
+}
+.title h2 {
+    line-height: 60px;
+}
+.font-light {
+    font-weight: 300;
+}
+.font36 {
+    font-size: 36px;
+}
+.text-gray-11 {
+    color: #333;
+}
+.tax-product_group .grid-product {
+    margin-bottom: 30px;
+}
+.grid-product {
+    display: inline-block;
+    width: 100%;
+}
+.sdo-new-gird {
+    display: -webkit-flex;
+}
+.layout-grid {
+    display: inline-block;
+    width: 100%;
+    margin-top: 25px;
+}
+.tax-product_group .sdo-new-gird .item-product {
+    width: 384px;
+}
+
+.sdo-new-gird .item-product {
+    background: #fafafa none repeat scroll 0 0;
+    margin: 5px;
+}
+.sdo-item-info {
+    display: flex;
+    padding-bottom: 10px;
+}
+.sdo-new-gird .sdo-item-image {
+    width: 160px;
+    position: relative;
+}
+.icon-vna {
+    width: 75px;
+    left: 10px;
+    top: -27px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.tax-product_group .sdo-item-image img {
+    width: 100%;
+    height: auto;
+    padding-right: 10px;
+}
+img {
+    border: 0;
+    vertical-align: middle;
+    max-width: 100%;
+}
+.sdo-new-gird .sdo-item-rate {
+    float: left;
+    margin-top: 10px;
+    width: 100%;
+}
+.sdo-new-gird .sdo-item-rate .review-item {
+    margin-bottom: 10px;
+}
+.sdo-item-rate .review-item .star input{
+    display: none;
+}
+.sdo-item-rate .review-item .star p {
+    margin:  0;
+}
+.sdo-item-rate .review-item .star span.stars-new {
+    margin: 0 auto;
+}
+.sdo-item-rate .review-item .star span {
+    display: block;
+    background: url(../img/img_iphone/stars.png) 0 -16px repeat-x;
+    width: 80px;
+    height: 16px;
+}
+.sdo-item-rate .review-item .star span span {
+    background-position: 0 0;
+}
+.sdo-new-gird .sdo-item-rate .tfs-rating {
+    float: left;
+    margin: 0;
+    padding: 0 20px;
+    text-align: center;
+    width: 100%;
+}
+.sdo-new-gird .info-single-product {
+    float: left;
+    width: 100%;
+}
+.info-single-product {
+    margin-top: 20px;
+    padding: 0 10px;
+}
+.info-single-product .color-single-product {
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+}
+.full-width{
+    width: 100%;
+}
+
+.sdo-label-attr {
+    display: block;
+    float: left;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.sdo-new-gird .color-single-product ul {
+    margin: 0;
+}
+.color-single-product ul {
+    float: left;
+    padding: 0;
+}
+.sdo-new-gird .color-single-product .item-color-new {
+    padding: 8px;
+    border: 1px solid transparent;
+    border-radius: 12px;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+.sdo-new-gird .info-single-product .capacity-single-product {
+    margin-top: 0px;
+}
+.info-single-product .capacity-single-product {
+    width: 100%;
+    margin-bottom: 12px;
+}
+.move-left {
+    float: left;
+}
+.sdo-label-attr {
+    display: block;
+    float: left;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.sdo-new-gird .capacity-single-product ul {
+    margin: 0;
+}
+.capacity-single-product ul {
+    float: left;
+    padding: 0;
+}
+.sdo-new-gird .capacity-single-product .item-capacity {
+    background: #f2f2f2 none repeat scroll 0 0;
+    border-radius: 2px;
+    color: #333;
+    float: left;
+    list-style: outside none none;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    padding: 5px 6px;
+}
+.sdo-new-gird .sdo-item-khm {
+    margin-top: 10px;
+    padding-right: 10px;
+    width: 220px;
+}
+.sdo-new-gird .sdo-item-title {
+    float: left;
+    margin-bottom: 6px;
+    width: 100%;
+}
+.sdo-new-gird .sdo-item-title h5 {
+    color: #333;
+    float: left;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.sdo-new-gird .sdo-item-title h5 a {
+    color: #333;
+    text-decoration: none;
+}
+.sdo-new-gird .sdo-item-price {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.line-through {
+    text-decoration: line-through;
+    padding-left: 10px;
+}
+.discount{
+    background-color: #dd2122;
+    color: #fff;
+    padding: 3px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+.sdo-new-gird .sdo-item-price .sdo-item-price-ag {
+    color: #dd2122;
+    font-size: 18px;
+    font-weight: 600;
+}
+/*.zmdi {*/
+    /*display: inline-block;*/
+    /*font: normal normal normal 14px/1 "Material-Design-Iconic-Font";*/
+    /*font-size: inherit;*/
+    /*text-rendering: auto;*/
+    /*-webkit-font-smoothing: antialiased;*/
+/*}*/
+/*.zmdi-shield-check:before {*/
+    /*content: "\f1c7";*/
+/*}*/
+.sdo-wrap-baohanh {
+    border-radius: 3px;
+    margin-bottom: 10px;
+    padding: 6px;
+    display: inline-block;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.text-bold {
+    font-weight: 700;
+}
+.text-white {
+    color: #fff;
+}
+.sdo-baohanh-new {
+    color: #000;
+    text-transform: initial;
+    font-weight: normal;
+}
+.sdo-new-gird .sdo-item-khuyenmai {
+    float: left;
+    width: 100%;
+}
+.sdo-item-khuyenmai {
+    margin-bottom: 20px;
+}
+.sdo-new-gird .sdo-item-khm h6 {
+    float: left;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    width: 100%;
+}
+.sdo-new-gird .sdo-wrap-km {
+    float: left;
+    margin-bottom: 8px;
+    width: 100%;
+}
+.sdo-new-gird .sdo-wrap-km p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 4px;
+}
+.sdo-new-gird .sdo-wrap-km p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 4px;
+}
+.sdo-wrap-dct {
+    float: left;
+    display: block;
+    padding: 6px 8px;
+    text-align: center;
+    border-radius: 3px;
+}
+.tfs-btn-mg {
+    vertical-align: middle;
+}
+.tfs-btn-mg a {
+    text-decoration: none;
+}
+.sdo-new-gird .sdo-xem-them {
+    color: #000;
+    text-transform: uppercase;
+}
+.position-absolute{
+    display: none;
+}
+.sdo-dct {
+    display: block;
+    width: 100%;
+    margin-top: 2px;
+    font-style: italic;
+    font-size: 11px;
+}
+.sdo-new-gird .sdo-item-meta {
+    padding: 20px;
+}
+.sdo-new-gird .sdo-item-price-lw {
+    color: #08c;
+    font-weight: 600;
+}
+

@@ -1,0 +1,96 @@
+.address{
+    background: #f8f8f8;
+    height: 537px;
+    width: 100%;
+    padding: 55px 0
+}
+.hethongcuahang_title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.sub-title{
+    color: #001111;
+    margin-top: 10px;
+}
+.local-title {
+    font-weight: 600;
+}
+.local-address{
+    font-weight: bold;
+    font-style: italic;
+}
+.footer-local ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.footer-local ul li{
+    color: #111;
+    width: 25%;
+    margin-top: 20px;
+}
+.footer-local ul li p {
+    line-height: 24px;
+    margin: 0;
+}
+.footer-local ul li a {
+    color: black;
+}
+.footer-local-partner{
+    display: flex;
+}
+footer {
+    width: 100%;
+    /*height: 629px;*/
+    padding: 40px 0;
+}
+.footer-logo{
+    width: 100px;
+    border-radius: 10px;
+}
+.footer_about{
+    margin: 20px auto;
+}
+.ts-footer{
+    display: flex;
+}
+.ts-footer-item{
+    width: 22%;
+    box-sizing: border-box;
+}
+.ts-footer-item h3 {
+    font-size: 16px;
+    font-weight: 600;
+}
+.ts-footer-item ul {
+    list-style: none;
+    padding: 0;
+}
+.ts-footer-item ul li {
+    margin-bottom: 17px;
+}
+.ts-footer-item ul li a {
+    color: black;
+}
+.color-black{
+    color: black;
+}
+.logo_bocongthuong {
+    height: 55px;
+}
+.payment_method_icon {
+    display: flex;
+    margin-top: 20px;
+}
+footer .footer-info {
+    width: 100%;
+    margin-top: 50px;
+    line-height: 2;
+    font-size: 12px;
+}
+.footer-info {
+    padding-bottom: 24px;
+}

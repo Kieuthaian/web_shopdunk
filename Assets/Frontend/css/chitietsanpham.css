@@ -1,0 +1,221 @@
+.body_chitietsanpham{
+    margin-top: 27px;
+}
+.title_home a {
+    text-decoration: none;
+}
+.title_tieude{
+    display: inline-flex;
+}
+.title_tieude .name_iphone{
+    font-size: 24px;
+    font-weight: bold;
+}
+.title_tieude .star {
+    margin-top: 8px;
+    padding-left: 20px;
+}
+.block_img img{
+    width: 100%;
+    height: 320px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+.title_tieude .star i {
+    color: yellow;
+}
+
+.sp_img ul{
+    list-style: none;
+    padding-left: 0 !important;
+
+}
+.des_img li{
+    width: 24%;
+    display: inline-block;
+}
+.sp_img ul li img {
+    width: 100%;
+    height: 85px;
+    padding:5px;
+}
+.active_img{
+    border: 1px solid red;
+}
+.sp_img ul li:hover img {
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+.price_sp{
+    font-size: 26px;
+    color: red;
+    font-weight: bold;
+}
+.line-through{
+    text-decoration: line-through;
+    padding-left: 20px;
+    font-size: 16px;
+}
+.
+#img_main{
+    width: 100%;
+    height: 400px;
+    border-radius: 3px;
+}
+.sdo-qua-km-new{
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    margin-top: 30px;
+    position: relative;
+}
+.product__category_title{
+    color: #dd2122;
+    font-weight: bold;
+}
+.cavani_product{
+    background: #a7a7a7;color: white;padding:7px;border-radius: 3px;
+
+}
+.qua-km-new{
+    /*border-radius: 4px;*/
+    /*!*border: 1px solid #a7a7a7;*!*/
+    /*padding:10px 0px;*/
+}
+.qua-km-new label{
+    background: #fff none repeat scroll 0 0 / 240px auto;
+    font-weight: 600;
+    left: 13px;
+   font-size: 16px;
+    width: 100%;
+    /*border-bottom: 1px solid #a7a7a7;*/
+}
+.qua-km-new ul {
+    color: #dd2122;
+    font-weight: bold;
+    padding: 10px;
+}
+.bao_hanh img  {
+    width: 100%;
+}
+.by_now{
+    width: 100%;
+    height: 70px;
+    background-color: #06c;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    border: 1px solid black;
+    margin: 15px 0;
+    text-align: center;
+    padding-top: 5px;
+}
+.by_now1{
+    width: 100%;
+    height: 70px;
+    background-color: #db1d04;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    border: 1px solid black;
+    margin: 15px 0;
+    text-align: center;
+    padding-top: 5px;
+}
+.text_by{
+    font-weight: bold;
+    font-size: 18px;
+}
+.by_now p span {
+    font-size: 12px;
+    font-weight: 400;
+}
+.by_now1 p span {
+    font-size: 12px;
+    font-weight: 400;
+}
+.tra_gop {
+    display: flex;
+    margin: 0 -5px;
+}
+.tin_dung{
+    width: 300px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 3px;
+    color: #000;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+.tragop{
+    font-weight: 700;
+    text-align: center;
+    margin-top: 5px;
+}
+.initial{
+    font-size: 12px;
+    font-weight: 400;
+}
+.sidebar .box-content h6 {
+    padding: 7px 5px 5px 10px;
+    margin-bottom: 5px;
+    display: block;
+}
+.grid-product h3{
+    font-size: 16px;
+    font-weight: 700;
+}
+.font20 {
+    font-size: 20px;
+}
+.text-gray-11 {
+    color: #333;
+    font-weight: bold;
+}
+.sdo-info-system ul {
+    margin: 10px 0 0;
+    padding: 0;
+    list-style-type: none;
+    border: 1px solid #dadada;
+}
+full-width{
+    width: 100%;
+
+}
+.sdo-info-system ul li {
+    border-top: 1px solid #eee;
+    padding: 10px 0px;
+    width: 100%;
+}
+/*.sdo-info-system ul li .detail {*/
+    /*display: inline-block;*/
+    /*width: 40%;*/
+    /*float: left;*/
+    /*font-weight: 600;*/
+/*}*/
+/*.sdo-info-system ul li .parameter {*/
+    /*line-height: 22px;*/
+    /*float: left;*/
+    /*width: 60%;*/
+/*}*/
+.sdo-tin-cn, .sdo-huongdan-mh {
+    margin-top: 30px;
+}
+.sdo-huongdan-mh h2 {
+    line-height: 28px;
+}
+.sdo-tin-cn ul, .sdo-huongdan-mh ul {
+    margin: 0;
+}
+.sdo-huongdan-mh ul li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 15px;
+    width: 100%;
+}
+.sdo-tin-cn a, .sdo-huongdan-mh a {
+    float: left;
+    width: 100%;
+    text-decoration: none;
+    font-size: 14px;
+}
